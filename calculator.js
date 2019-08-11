@@ -300,7 +300,7 @@ const styles=StyleSheet.create({
     alignItems: 'center',
     fontSize:30,
     textAlign:'center',
-    padding: 10,
+    padding: 5,
     color:'#000000'
   }
 });
