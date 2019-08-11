@@ -290,7 +290,7 @@ const styles=StyleSheet.create({
   },
   txt:{
     flex:1,
-
+    paddingTop:10,
     fontSize:50,
     textAlign:'center',
     color:'#ffffff'
@@ -298,9 +298,9 @@ const styles=StyleSheet.create({
   txt2:{
     flex:1,
     alignItems: 'center',
-    fontSize:30,
+    fontSize:29,
     textAlign:'center',
-    padding: 5,
+    paddingTop: 25,
     color:'#000000'
   }
 });
